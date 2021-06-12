@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dar afnan" target="blank"><img align="center" src="https://github.com/afnan3000/afnan3000/blob/main/Assets/download.png" alt="dar afnan" height="50" width="50" /></a>
-<a href="https://instagram.com/afnan_3000" target="blank"><img align="center" src="https://github.com/afnan3000/afnan3000/blob/main/Assets/IMG_20210516_100602_083%5B1%5D.jpg" alt="dar____afnan" height="50" width="50" /></a>
+<a href="https://instagram.com/afnan__3000" target="blank"><img align="center" src="https://github.com/afnan3000/afnan3000/blob/main/Assets/IMG_20210516_100602_083%5B1%5D.jpg" alt="dar____afnan" height="50" width="50" /></a>
 <a href="https://t.me/hypernotAfnanx97" target="blank"><img align="center" src="https://github.com/afnan3000/afnan3000/blob/main/Assets/IMG_20210516_100605_103%5B1%5D.png" alt="TELEGRAM" height="50" width="50" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
