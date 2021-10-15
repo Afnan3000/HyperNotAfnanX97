@@ -1,6 +1,6 @@
 ![Banner](https://github.com/afnan3000/afnan3000/blob/main/Assets/IMG_20210516_095914_832.png)
 <h3 align="center">A passionate self taught developer and pentester</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/WMcu.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/afnan3000/afnan3000/blob/main/Assets/giphy.gif">
 -🌱 I’m currently learning CSS 
 
 -🌱 I’m currently learning python
