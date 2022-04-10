@@ -5,9 +5,9 @@
 
 -🌱 I’m currently learning python
 
-- 📫 How to reach me **darafnanafnan@gmail.com**
+- 📫 How to reach me **hypernotafnanx97@gmail.com**
 
-- ⚡ Fun fact **I am AFK!.**
+- ⚡ Fun fact **The One Reading This Is Gay!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
